@@ -2,7 +2,6 @@
 
 import argparse
 import json
-from collections import defaultdict
 
 
 def parse_arguments():
